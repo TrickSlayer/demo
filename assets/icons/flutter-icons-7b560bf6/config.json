@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "3ba4275937db277075fc47d6b5a69a2e",
+      "css": "back",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "e9f1a504968111eab72aacfdce5a3d9f",
+      "css": "triangle-left",
+      "code": 62400,
+      "src": "octicons"
+    }
+  ]
+}
